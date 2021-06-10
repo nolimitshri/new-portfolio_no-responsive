@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@300&family=Roboto&family=Ubuntu&display=swap');
+
+
+.container{
+    margin-top: 50px;
+    /* height: 150vh; */
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    position: relative;
+}
+.text-left{
+    text-align: left;
+    font-family: 'Ubuntu', sans-serif;
+    line-height: 1;
+    font-size: 4.5rem;
+}
+.big-title{
+    /* position: absolute;
+    right: 51%; */
+    font-size: 4.8em;
+    line-height: 0.9;
+    width: 50%;
+    margin: auto;
+    font-weight: bold;
+}
+
+.text-right{
+    font-size: 1.7em;
+    line-height: 1.4;
+    font-weight: normal;
+    font-family: 'Ubuntu', sans-serif;
+}
+.h-pr{
+    font-size: 3em;
+    font-family: 'Prompt', sans-serif;
+
+}
+.content{
+    width: 50%;
+    margin: auto;
+    height: 80vh;
+}
+
+.red{
+    color: red;
+}
+
+.yllw{
+    color: yellow;
+}
+
+/* #base{
+    display: flex;
+    width: 50%;
+    margin: auto;
+    justify-content: space-around;
+    height: 30vh; 
+    border: 2px solid white;
+    padding: 10px 0px;
+} 
+*/
+
+/*.item{
+    font-size: 1.25em;
+} */
